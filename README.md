@@ -4,6 +4,76 @@
 
 Hey! I'm a 15-year-old dev who lives and breathes Python and AI. My main obsession is **reinforcement learning**, so you'll find me working on RL agents, building fun games, and experimenting with Unity ML-Agents (and a little bit of C# when needed). Most of my free time? Yeah, it's coding time.
 
+<h2> 🚀 &nbsp;My Tech & Tools</h2>
+
+<!-- IDEs of Choice -->
+<h3>💻 IDEs of Choice</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="45" height="45"/>
+</p>
+
+
+<!-- Hardware of Choice -->
+<h3>💾 Hardware of Choice</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" title="Apple" width="45" height="45"/>
+  <img src="./assets/icons/m1.svg" alt="Apple M1" width="45" height="45"/>
+  
+          
+
+</p>
+
+<!-- Software of Choice -->
+<h3>🛠️ Software of Choice</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="45" height="45"/>
+
+  <img src="./assets/icons/lmstudio.svg" alt="LMStudio" width="45" height="45"/>
+  <img src="./assets/icons/ollama.svg" alt="Ollama" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
+  
+</p>
+
+<h3>⚡ Frameworks of Choice</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
+</p>
+
+
+
+<!-- Main Languages -->
+<h3>🧠 Main Languages</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="45" height="45"/>
+</p>
+
+<!-- Other Languages -->
+<h3>📚 Other Languages</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="45" height="45"/>
+</p>
+
+<!-- Languages I Want to Learn -->
+<h3>🌱 Languages I Want to Learn</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</p>
+
+
+
+  
+
 ---
 
 ## 🏆 What I Do
