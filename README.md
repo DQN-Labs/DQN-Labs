@@ -19,7 +19,7 @@ Hey! I'm a 15-year-old dev who lives and breathes Python and AI. My main obsessi
 <h3>💾 Hardware of Choice</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" title="Apple" width="45" height="45"/>
-  <img src="./assets/icons/m1.svg" alt="Apple M1" width="45" height="45"/>
+  <img src="./assets/icons/m1.png" alt="Apple M1" width="45" height="45"/>
   
           
 
@@ -31,8 +31,8 @@ Hey! I'm a 15-year-old dev who lives and breathes Python and AI. My main obsessi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" title="Godot" width="45" height="45"/>
 
-  <img src="./assets/icons/lmstudio.svg" alt="LMStudio" width="45" height="45"/>
-  <img src="./assets/icons/ollama.svg" alt="Ollama" width="45" height="45"/>
+  <img src="./assets/icons/lmstudio.png" alt="LMStudio" width="45" height="45"/>
+  <img src="./assets/icons/ollama.png" alt="Ollama" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="45" height="45"/>
   
 </p>
